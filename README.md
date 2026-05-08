@@ -43,7 +43,7 @@ Junior Full-Stack Developer focused on building scalable and functional web appl
 
 ## 🚀 Featured Projects
 
-### 📁 [Portfolio Full-Stack](https://github.com/aporcar25/portfolio-fullstack)
+### 📁 [Portfolio Full-Stack](https://github.com/aporcar25/mi-proyecto-nextjs)
 Personal portfolio built with Next.js, deployed end-to-end. Includes contact form with MongoDB backend, responsive design and dynamic project showcase.  
 `Next.js` · `MongoDB` · `Node.js` · `Tailwind CSS`
 
